@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           Hi,I'm <strong>Lucca</strong>! I'm a web developer from Brasília,
-          Brazil.
+          Brazil. Welcome to my blog! :)
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
